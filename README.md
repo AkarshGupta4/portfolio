@@ -20,6 +20,6 @@ This project was developed as a part of the **Cosoft Virtual Internship 2025 (We
 
 ---
 
-Live - https://akarshgupta-portfolio-hgaeqea5e-akarsh-guptas-projects-c6eb9d85.vercel.app/
+Live - https://akarshgupta-portfolio.vercel.app/
 
 Feel free to explore my portfolio and connect with me!
